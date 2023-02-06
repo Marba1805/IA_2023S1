@@ -53,8 +53,6 @@ rogerio.oliveira@mackenzie.br
 
 > [Lab Caso: **Origem dos veículos**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) *Neste Lab empregue 30% de dados de teste.*
 
-> [Aula 5](https://colab.research.google.com/github/Rogerio-mack/IA_2022S2/blob/main/Aula5.ipynb)
-
 **6** [**Métricas de Classificação e K-Vizinhos mais Próximos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb)
 
 > [Lab Caso: **Seguros e Diagnóstico de Tumores**](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn_Lab.ipynb) *Para o exercício do Moodle não empregue conjuntos de treinamento e teste, mas você deve desenvolver isso durante a aula!*
