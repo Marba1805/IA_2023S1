@@ -107,13 +107,13 @@ rogerio.oliveira@mackenzie.br
 
 ## Datas Importantes
 
-* Avaliação Intermediária I | 7N **_9** | 7G **_** |
+* Avaliação Intermediária I | 7N **dd/mm** | 7G **dd/mm** |
 
-* Avaliação Intermediária II | 7N **_** | 7G **_** |
+* Avaliação Intermediária II | 7N **dd/mm** | 7G **dd/mm** |
 
-* Substitutiva | 7N **05/12** | 7G **_** |
+* Substitutiva | 7N **dd/mm** | 7G **dd/mm** |
 
-* Avaliação Final | 7N **12/12** | 7G **_** |
+* Avaliação Final | 7N **dd/mm** | 7G **dd/mm** |
 
 <br>
 
