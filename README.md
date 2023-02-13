@@ -29,6 +29,8 @@ rogerio.oliveira@mackenzie.br
 
 **1** [**Introdução à Inteligência Artificial: conceito, história e paradigmas**](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Introducao.ipynb) 
 
+> [Aqui](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb) Veja a seção **Aprendizado de Máquina: Um Novo Paradigma**
+
 > *Atividade: Formação dos grupos e apresentação das propostas iniciais de projeto?*
 
 **2** [**Python básico para o Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Python_1.ipynb) 
