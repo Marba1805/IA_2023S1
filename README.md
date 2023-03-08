@@ -47,6 +47,8 @@ rogerio.oliveira@mackenzie.br
 
 > [Exercícios II](https://colab.research.google.com/github/Rogerio-mack/Inteligencia_Artificial/blob/main/IA_Pandas_II_Exerc.ipynb) *Responda ao questionário no Moodle*
 
+> [Aula Resumo Pandas](https://colab.research.google.com/github/Rogerio-mack/IA_2023S1/blob/main/Aula_Resumo_Pandas.ipynb)
+
 **4** [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 > [Lab Caso: **Estimando a emissão de gases CO2 de veículos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao_ex.ipynb)
